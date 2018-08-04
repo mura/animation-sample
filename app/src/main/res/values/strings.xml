@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation Sample</string>
+    <string name="start">START</string>
+    <string name="change">CHANGE</string>
+    <string name="fade">FADE</string>
+    <string name="slide">SLIDE</string>
+</resources>
